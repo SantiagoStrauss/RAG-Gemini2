@@ -10,3 +10,5 @@ langchainhub
 pypdf
 rapidocr-onnxruntime
 Chromadb
+rank_bm25
+typing
